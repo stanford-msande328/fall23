@@ -12,8 +12,8 @@ seo:
 
 Instructor: [Vasilis Syrgkanis](https://vsyrgkanis.com/index.html), Assistant Professor, MS&E and CS (courtesy)  
 Units: 3  
-Spring Quarter 2023  
-Tue, Thu 3:00-4:20PM Littlefield Center, Rm 107
+Autumn Quarter 2023  
+Tue, Thu 3:00-4:20PM 20-21G
 
 **Description and Format:**  
 This is an advanced PhD course on modern theoretical topics at the intersection of causal inference, econometric theory and statistical learning theory. The course will consist of lectures, and student-led presentations. Each week will roughly consist of one lecture and two or three student presentations of research papers related to the theme of the week. For both parts, all students will need to read the corresponding papers and write short reviews of them. The course will also consist of a quarter long project which will involve a detailed literature review on a topic and either a replication of the methodology and the experimental results of a recent research paper or new methodological or theoretical developments on the topic of the project. Candidate research project ideas and areas will be provided; students are also free to propose other projects. The projects can be individual or in teams of up to three students.
@@ -24,14 +24,13 @@ This is an advanced PhD course on modern theoretical topics at the intersection 
 
 |                   | Time                       | Location       |
 |-------------------|----------------------------|-----------     |
-| Vasilis Syrgkanis | Wednesday 2.30-3.30pm      | Huang 252      |
+| Vasilis Syrgkanis | Wednesday 3.00-4.00pm      | Huang 252      |
  
 
 ### Grading
 
-* 35% class presentation(s) / paper summaries
-* 15% scribing
-* 50% project (20% literature review, 30% final report)
+* 30% class presentation
+* 70% project (35% literature review, 35% final report)
 
 ### Course webpages
 
@@ -109,13 +108,15 @@ Here is an assortment of other books that you may find useful to consult but whi
 
 # Course Plan
 
+**Intro Lecture:** Causal Machine Learning in Practice
+
 **Lecture 1:** Potential Outcomes and DAGs.
 
-Causal identification via the potential outcomes framework, the structural equation framework and its DAG representation. Single world intervention graphs (SWIGs) and identification by adjustment. Proof of D-separation implies conditional independence.
+Causal identification via the potential outcomes framework, the structural equation framework and its DAG representation. 
 
-**Lecture 2:**  Automated Identification in DAGs: the ID Algorithm
+**Lecture 2:**  Graphical Criteria and Single world intervention graphs
 
-The ID algorithm for general identification and its proof of sufficiency and necessity.
+Single world intervention graphs (SWIGs) and identification by adjustment. Proof of D-separation implies conditional independence.
 
 **Lecture 3:** Identification with Unobserved Confounding beyond DAGs
 
@@ -129,29 +130,34 @@ Estimation via moment conditions. Neyman orthogonality and Debiased Machine Lear
 
 Identification and inference of dynamic counterfactual policies (non-parametric and semi-parametric). Estimation of optimal dynamic regimes and g-estimation. Identification proof. Auto-DML and proof for dynamic regime
 
-**Lecture 6:** Orthogonal Statistical Learning Theory for Heterogeneous Effects
+**Lecture 6:** Identification and Inference with Proxies and Instruments
+
+Auto-DML for proximal inference and non-parametric instrumental variable regression
+
+
+**Lecture 7:** Orthogonal Statistical Learning Theory for Heterogeneous Effects
 
 Orthogonal statistical learning theory. Localized rademacher complexities and generalization bounds.
 
 
-**Lecture 7:** Non-Parametric Inference for Heterogeneous Effects
+**Lecture 8:** Non-Parametric Inference for Heterogeneous Effects
 
 Non-parametric confidence intervals, random forests and nearest neighbors. Proof of asymptotic linearity for kernel based moment estimators. Proof of bias for k-NN and (maybe proof of bias for Trees). Proof of confidence intervals with nuisance parameters and local orthogonality.
 
-**Lecture 8:** Non-Parametric Learning and Conditional Moment Restrictions
+**Lecture 9:** Non-Parametric Learning and Conditional Moment Restrictions
 
 Adversarial estimators for conditional moment restrictions. Statistical learning theory for adversarial estimators. Confidence intervals on functionals of endogenous regression functions. Proof of the rate for adversarial estimators based on the localized complexities. Proof of the auto-debiased approach for functionals of endogenous regressions.
 
-**Lecture 9:** Sensitivity Analysis and Causal ML
+**Lecture 10:** Sensitivity Analysis and Causal ML
 
 Omitted variable bias in semi-parametric and non-parametric models. Inference on bias bounds
 
-**Lecture 10:** Representation Learning and Causal Inference
+**Lecture 11:** Representation Learning and Causal Inference
 
 Linear and Non-Linear Independent Component Analysis. Impossibilities and possibilities in non-linear causal representation learning.
 
 
-**Lecture 11:** Causal Discovery and Post-Discovery Inference
+**Lecture 12:** Causal Discovery and Post-Discovery Inference
 
 Linear ICA and discovery; LinGAM (proof of identification). Causal discovery with unobserved confounding (FCI). Conditional independence testing.
 

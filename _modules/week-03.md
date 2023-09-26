@@ -2,7 +2,7 @@
 title: Semi-Parametric Inference and Causal Estimation
 ---
 
-Apr 18
+Oct 12
 : **Lecture**{: .label .label-green } Semi-Parametric Inference and Neyman Orthogonality
 : Estimation via moment conditions. Neyman orthogonality and Debiased Machine Learning. Proof of asymptotic linearity for Neyman orthogonal moments with sample splitting and without sample splitting. Automatic Debiased Machine Learning and proof. Proof of the Lasso rate. Discuss the multiplier bootstrap for joint inference.
 : ***Required Reading Materials***
@@ -16,8 +16,18 @@ Apr 18
 - [Kernel-based off-policy estimation without overlap: Instance optimality beyond semiparametric efficiency](https://arxiv.org/abs/2301.06240)
 - [RieszNet and ForestRiesz](https://proceedings.mlr.press/v162/chernozhukov22a/chernozhukov22a.pdf)
 
-Apr 20
-: **Student Presentations**{: .label .label-blue }
-- [Adapting Neural Networks for the Estimation of Treatment Effects](https://arxiv.org/abs/1906.02120)
-- [Approximate Residual Balancing: De-Biased Inference of Average Treatment Effects in High Dimensions](https://arxiv.org/abs/1604.07125)
+
+Oct 17
+: **Lecture**{: .label .label-green } Identification and Inference in Dynamic Regimes
+: Identification and inference of dynamic counterfactual policies (non-parametric and semi-parametric). Estimation of optimal dynamic regimes and g-estimation. Identification proof. Auto-DML and proof for dynamic regime
+: ***Required Reading Materials***
+- [Double/Debiased Machine Learning for Dynamic Treatment Effects via g-Estimation](https://arxiv.org/pdf/2002.07285.pdf)
+- [Automatic Debiased Machine Learning for Dynamic Treatment Effects and General Nested Functionals](https://arxiv.org/abs/2203.13887)
+: ***Further Reading Materials***
+- [Inference on Optimal Dynamic Policies via Softmax Approximation](https://arxiv.org/abs/2303.04416)
+- [Estimating the Long-Term Effects of Novel Treatments](https://arxiv.org/abs/2103.08390)
+
+Oct 15
+: **Project Proposal Due**{: .label .label-red }
+
 

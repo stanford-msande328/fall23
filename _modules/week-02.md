@@ -2,7 +2,18 @@
 title: Causal Identification
 ---
 
-Apr 11
+
+Oct 3
+: **Lecture**{: .label .label-green } DAGs, D-separation and Identification by Conditioning
+: Proof of D-separation implies conditional independence.
+: ***Required Reading Materials***
+- [Single World Intervention Graphs](https://csss.uw.edu/Papers/wp128.pdf) [p.1-54]
+: ***Further Reading Materials***
+- [A General Identification Condition for Causal Effects](https://ftp.cs.ucla.edu/pub/stat_ser/R290-A.pdf)
+- [Nested Markov Properties for Acyclic Directed Mixed Graphs](https://arxiv.org/abs/1701.06686)
+- [Identification of Joint Interventional Distributions in Recursive Semi-Markovian Causal Models](https://ftp.cs.ucla.edu/pub/stat_ser/r327.pdf)
+
+Oct 5
 : **Lecture**{: .label .label-green } Unobserved Confounding beyond DAGs
 : Causal identification in the presence of unobserved confounding beyond DAGs. Front-Door, Instrumental variables (IV), Diff-in-Diff (DiD), Regression Discontinuity Design (RDD). 
 : ***Required Reading Materials***
@@ -14,14 +25,8 @@ Apr 11
 - [Identification and Estimation of Local Average Treatment Effects](https://www.jstor.org/stable/2291629)
 - [Regression discontinuity designs: A guide to practice](https://www.sciencedirect.com/science/article/pii/S0304407607001091)
 
-Apr 13
+Oct 10
 : **Lecture**{: .label .label-green } Unobserved Confounding beyond DAGs
 : Causal identification in the presence of unobserved confounding beyond DAGs. (Synthetic Controls). 
 : ***Required Reading Materials***
 - [Comparative Politics and the Synthetic Control Method](https://economics.mit.edu/sites/default/files/publications/Comparative%20Politics%20and%20the%20Synthetic%20Control.pdf)
-
-: **Student Presentations**{: .label .label-blue }
-- [Synthetic A/B Testing using Synthetic Interventions](https://arxiv.org/abs/2006.07691)
-
-Apr 14
-: **Project Proposal Due**{: .label .label-red }

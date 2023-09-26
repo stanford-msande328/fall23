@@ -25,12 +25,12 @@ schedule:
       - name: Lecture
         start: 3:00 PM
         end: 4:20 PM
-        location: Littlefield Center, Rm 107
+        location: 20-21G
   - name: Wednesday
     events:
       - name: Office Hours
-        start: 2:30 PM
-        end: 3:30 PM
+        start: 3:00 PM
+        end: 4:00 PM
         location: Huang 252
         staff: Vasilis
   - name: Thursday
@@ -38,7 +38,7 @@ schedule:
       - name: Lecture
         start: 3:00 PM
         end: 4:20 PM
-        location: Littlefield Center, Rm 107
+        location: 20-21G
   - name: Friday
     
 ---
