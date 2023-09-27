@@ -41,7 +41,7 @@ Oct 5
 
 Oct 10
 : **Lecture**{: .label .label-green } Unobserved Confounding beyond DAGs
-: Causal identification in the presence of unobserved confounding beyond DAGs. (Synthetic Controls). 
+: Causal identification in the presence of unobserved confounding beyond DAGs. Front-Door, Instrumental variables (IV), Diff-in-Diff (DiD), Regression Discontinuity Design (RDD) (syntheti controls?). 
 : ***Required Reading Materials***
 - [Comparative Politics and the Synthetic Control Method](https://economics.mit.edu/sites/default/files/publications/Comparative%20Politics%20and%20the%20Synthetic%20Control.pdf)
 
