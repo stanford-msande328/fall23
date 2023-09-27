@@ -1,33 +1,38 @@
 ---
-title: Semi-Parametric Inference and Causal Estimation
+title: Estimation and Inference on Causal Functions
 ---
 
-Oct 12
-: **Lecture**{: .label .label-green } Semi-Parametric Inference and Neyman Orthogonality
-: Estimation via moment conditions. Neyman orthogonality and Debiased Machine Learning. Proof of asymptotic linearity for Neyman orthogonal moments with sample splitting and without sample splitting. Automatic Debiased Machine Learning and proof. Proof of the Lasso rate. Discuss the multiplier bootstrap for joint inference.
+Oct 24
+: **Lecture**{: .label .label-green } Statistical Learning Theory for Heterogeneous Effects
+: Orthogonal statistical learning theory. Localized rademacher complexities and generalization bounds.
 : ***Required Reading Materials***
-- [Double/debiased machine learning for treatment and structural parameters](https://academic.oup.com/ectj/article/21/1/C1/5056401)
-- [Debiased Machine Learning without Sample-Splitting for Stable Estimators](https://arxiv.org/abs/2206.01825)
+- [Orthogonal Statistical Learning](https://arxiv.org/abs/1901.09036)
+- [Machine Learning Estimation of Heterogeneous Treatment Effects with Instruments](https://arxiv.org/abs/1905.10176)
 : ***Further Reading Materials***
-- [Adjusting for Nonignorable Drop-Out Using Semiparametric Nonresponse Models](https://www.jstor.org/stable/2669923)
-- [Automatic Debiased Machine Learning via Neural Nets for Generalized Linear Regression](https://arxiv.org/abs/2104.14737)
-- [High-dimensional econometrics and regularized GMM](https://arxiv.org/pdf/1806.01888.pdf)
-- [Off-policy estimation of linear functionals: Non-asymptotic theory for semi-parametric efficiency](https://arxiv.org/abs/2209.13075)
-- [Kernel-based off-policy estimation without overlap: Instance optimality beyond semiparametric efficiency](https://arxiv.org/abs/2301.06240)
-- [RieszNet and ForestRiesz](https://proceedings.mlr.press/v162/chernozhukov22a/chernozhukov22a.pdf)
+- [Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning](https://arxiv.org/abs/1706.03461)
+- [Minimax rates for heterogeneous causal effect estimation](https://arxiv.org/abs/2203.00837)
+- [Treatment Heterogeneity for Survival Outcomes](https://arxiv.org/abs/2207.07758)
 
-
-Oct 17
-: **Lecture**{: .label .label-green } Identification and Inference in Dynamic Regimes
-: Identification and inference of dynamic counterfactual policies (non-parametric and semi-parametric). Estimation of optimal dynamic regimes and g-estimation. Identification proof. Auto-DML and proof for dynamic regime
+Oct 26
+: **Lecture**{: .label .label-green } Non-Parametric Confidence Intervals with Random Forests
+: Non-parametric confidence intervals, random forests and nearest neighbors. Proof of asymptotic linearity for kernel based moment estimators. Proof of bias for k-NN and (maybe proof of bias for Trees). Proof of confidence intervals with nuisance parameters and local orthogonality. 
 : ***Required Reading Materials***
-- [Double/Debiased Machine Learning for Dynamic Treatment Effects via g-Estimation](https://arxiv.org/pdf/2002.07285.pdf)
-- [Automatic Debiased Machine Learning for Dynamic Treatment Effects and General Nested Functionals](https://arxiv.org/abs/2203.13887)
+- [Orthogonal Random Forest for Causal Inference](https://arxiv.org/abs/1806.03467)
+- [Non-Parametric Inference Adaptive to Intrinsic Dimension](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3313987)
 : ***Further Reading Materials***
-- [Inference on Optimal Dynamic Policies via Softmax Approximation](https://arxiv.org/abs/2303.04416)
-- [Estimating the Long-Term Effects of Novel Treatments](https://arxiv.org/abs/2103.08390)
-
-Oct 15
-: **Project Proposal Due**{: .label .label-red }
+- [Estimation and Inference with Trees and Forests in High Dimensions](https://arxiv.org/abs/2007.03210)
+- [Asymptotic properties of high-dimensional random forests](https://projecteuclid.org/journals/annals-of-statistics/volume-50/issue-6/Asymptotic-properties-of-high-dimensional-random-forests/10.1214/22-AOS2234.full)
+- [V-statistics and variance estimation](https://dl.acm.org/doi/abs/10.5555/3546258.3546545)
 
 
+Oct 31
+: **Lecture**{: .label .label-green } Non-Parametric Learning and Conditional Moment Restrictions
+: Adversarial estimators for conditional moment restrictions. Statistical learning theory for adversarial estimators. Confidence intervals on functionals of endogenous regression functions. Proof of the rate for adversarial estimators based on the localized complexities. Proof of the auto-debiased approach for functionals of endogenous regressions.
+: ***Required Reading Materials***
+- [Minimax Estimation of Conditional Moment Models](https://arxiv.org/abs/2006.07201)
+- [Inference on Strongly Identified Functionals of Weakly Identified Functions](https://arxiv.org/abs/2208.08291)
+: ***Further Reasing Materials***
+- [An Introduction to Proximal Causal Learning](https://arxiv.org/abs/2009.10982)
+- [The Proximal ID algorithm](https://arxiv.org/abs/2108.06818)
+- [A Minimax Learning Approach to Off-Policy Evaluation in Confounded Partially Observable Markov Decision Processes](https://arxiv.org/abs/2111.06784)
+- [Proximal Reinforcement Learning: Efficient Off-Policy Evaluation in Partially Observed Markov Decision Processes](https://arxiv.org/abs/2110.15332)

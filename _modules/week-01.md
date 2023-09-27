@@ -25,6 +25,7 @@ Oct 3
 - [A General Identification Condition for Causal Effects](https://ftp.cs.ucla.edu/pub/stat_ser/R290-A.pdf)
 - [Nested Markov Properties for Acyclic Directed Mixed Graphs](https://arxiv.org/abs/1701.06686)
 - [Identification of Joint Interventional Distributions in Recursive Semi-Markovian Causal Models](https://ftp.cs.ucla.edu/pub/stat_ser/r327.pdf)
+- [The Causal-Neural Connection: Expressiveness, Learnability, and Inference](https://arxiv.org/abs/2107.00793)
 
 Oct 5
 : **Lecture**{: .label .label-green } Unobserved Confounding beyond DAGs
