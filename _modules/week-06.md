@@ -21,13 +21,3 @@ Nov 9
 - [Scalable Causal Discovery with Score Matching](https://openreview.net/pdf?id=v56PHv_W2A) and [Score-based Causal Representation Learning with Interventions](https://arxiv.org/abs/2301.08230)
 - [Valid Inference after Causal Discovery](https://arxiv.org/abs/2208.05949)
 
-Jun 8
-: **Student Presentations**{: .label .label-blue }
-- [Score Matching Enables Causal Discovery of Nonlinear Additive Noise Models](https://proceedings.mlr.press/v162/rolland22a/rolland22a.pdf)
-
-
-Jun 9
-: **Final project report due**{: .label .label-red}
-
-Jun 13
-: **Poster Session Presentations for Project**{: .label .label-red}
