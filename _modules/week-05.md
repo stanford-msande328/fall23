@@ -2,7 +2,7 @@
 title: Representation Learning and Causal Inference
 ---
 
-Nov 7
+Nov 16
 : **Lecture**{: .label .label-green } Linear and Non-Linear ICA
 : Linear and Non-Linear Independent Component Analysis. Impossibilities and possibilities in non-linear causal representation learning.
 : ***Required Reading Materials***
@@ -17,3 +17,6 @@ Nov 7
 - [Efficient Conditionally Invariant Representation Learning](https://arxiv.org/abs/2212.08645)
 - [Invariant Causal Representation Learning for Out-of-Distribution Generalization](https://openreview.net/forum?id=-e4EXDWXnSn) 
 
+
+Nov 17
+: **Literature Review Due**{: .label .label-red }

@@ -3,6 +3,12 @@ title: Semi-Parametric Inference and Causal Estimation
 ---
 
 Oct 12
+: **Lecture**{: .label .label-green } Background: Convergence in Probability, Concentration of Measure and Central Limit Theorem
+
+Oct 15
+: **Project Proposal Due**{: .label .label-red }
+
+Oct 17
 : **Lecture**{: .label .label-green } Semi-Parametric Inference and Neyman Orthogonality
 : Estimation via moment conditions. Neyman orthogonality and Debiased Machine Learning. Proof of asymptotic linearity for Neyman orthogonal moments with sample splitting and without sample splitting. Automatic Debiased Machine Learning and proof. Proof of the Lasso rate. Discuss the multiplier bootstrap for joint inference.
 : ***Required Reading Materials***
@@ -17,11 +23,7 @@ Oct 12
 - [RieszNet and ForestRiesz](https://proceedings.mlr.press/v162/chernozhukov22a/chernozhukov22a.pdf)
 
 
-Oct 15
-: **Project Proposal Due**{: .label .label-red }
-
-
-Oct 17
+Oct 19
 : **Lecture**{: .label .label-green } Identification and Inference in Dynamic Regimes
 : Identification and inference of dynamic counterfactual policies (non-parametric and semi-parametric). Estimation of optimal dynamic regimes and g-estimation. Identification proof. Auto-DML and proof for dynamic regime
 : ***Required Reading Materials***
@@ -31,7 +33,7 @@ Oct 17
 - [Inference on Optimal Dynamic Policies via Softmax Approximation](https://arxiv.org/abs/2303.04416)
 - [Estimating the Long-Term Effects of Novel Treatments](https://arxiv.org/abs/2103.08390)
 
-Oct 19
+Oct 24
 : **Lecture**{: .label .label-green } Identification and Inference with Proxies and Instruments
 : Identification and inference of average treatment effects with unobserved confounding when we have access to either proxy controls or instrumental varialbes
 : ***Required Reading Materials***

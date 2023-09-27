@@ -2,7 +2,11 @@
 title: Estimation and Inference on Causal Functions
 ---
 
-Oct 24
+Oct 26
+: **Lecture**{: .label .label-green } Background: Concentration Inequalities and Rademacher Complexity
+
+
+Oct 31
 : **Lecture**{: .label .label-green } Statistical Learning Theory for Heterogeneous Effects
 : Orthogonal statistical learning theory. Localized rademacher complexities and generalization bounds.
 : ***Required Reading Materials***
@@ -13,7 +17,10 @@ Oct 24
 - [Minimax rates for heterogeneous causal effect estimation](https://arxiv.org/abs/2203.00837)
 - [Treatment Heterogeneity for Survival Outcomes](https://arxiv.org/abs/2207.07758)
 
-Oct 26
+Nov 2
+: **Lecture**{: .label .label-green } Background: U-Statistics and Concentration
+
+Nov 7
 : **Lecture**{: .label .label-green } Non-Parametric Confidence Intervals with Random Forests
 : Non-parametric confidence intervals, random forests and nearest neighbors. Proof of asymptotic linearity for kernel based moment estimators. Proof of bias for k-NN and (maybe proof of bias for Trees). Proof of confidence intervals with nuisance parameters and local orthogonality. 
 : ***Required Reading Materials***
@@ -25,7 +32,7 @@ Oct 26
 - [V-statistics and variance estimation](https://dl.acm.org/doi/abs/10.5555/3546258.3546545)
 
 
-Oct 31
+Nov 9
 : **Lecture**{: .label .label-green } Non-Parametric Learning and Conditional Moment Restrictions
 : Adversarial estimators for conditional moment restrictions. Statistical learning theory for adversarial estimators. Confidence intervals on functionals of endogenous regression functions. Proof of the rate for adversarial estimators based on the localized complexities. Proof of the auto-debiased approach for functionals of endogenous regressions.
 : ***Required Reading Materials***
