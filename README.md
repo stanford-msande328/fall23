@@ -29,7 +29,7 @@ This is an advanced PhD course on modern theoretical topics at the intersection 
 
 ### Grading
 
-* 30% class presentation (Dates: Nov 23, 28, 30, Dec 5, 7)
+* 30% class presentation (Dates: Nov 28, 30, Dec 5, 7)
 * 70% project (35% literature review, 35% final report)
   - Proposal Due: Oct 15
   - Literature Review Due: Nov 17

@@ -2,7 +2,7 @@
 title: Causal Discovery
 ---
 
-Nov 21
+Nov 28
 : **Lecture**{: .label .label-green } Theoretical Results in Causal Discovery
 : Linear ICA and discovery; LinGAM (proof of identification). Causal discovery with unobserved confounding (FCI). Conditional independence testing.
 : [https://github.com/stanford-msande328/spring23/blob/main/LinGAM.ipynb](LinGAM and FastICA in Python)
