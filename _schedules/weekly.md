@@ -25,7 +25,7 @@ schedule:
       - name: Lecture
         start: 3:00 PM
         end: 4:20 PM
-        location: 20-21G
+        location: 530-127
   - name: Wednesday
     events:
       - name: Office Hours
@@ -38,7 +38,7 @@ schedule:
       - name: Lecture
         start: 3:00 PM
         end: 4:20 PM
-        location: 20-21G
+        location: 530-127
   - name: Friday
     
 ---
