@@ -10,7 +10,7 @@ seo:
 
 # Welcome to MS&E 328/CS 328 – Foundations of Causal Machine Learning
 
-Instructor: [Vasilis Syrgkanis](https://vsyrgkanis.com/index.html), Assistant Professor, MS&E and CS (courtesy)  
+Instructor: [Vasilis Syrgkanis](https://vsyrgkanis.com/index.html), Assistant Professor, MS&E and (courtesy) CS & EE
 Units: 3  
 Autumn Quarter 2023  
 Tue, Thu 3:00-4:20PM 530-127
