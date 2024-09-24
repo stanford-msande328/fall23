@@ -2,8 +2,8 @@
 title: Student Presentations
 ---
 
-Dec 3, 5
+Nov 30, Dec 5, 7
 : **Student Presentations**
 
-Dec 13
+Dec 15
 : **Final Project Due**{: .label .label-red }
