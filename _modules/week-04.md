@@ -2,7 +2,7 @@
 title: Sensitivity Analysis and Causal ML
 ---
 
-Nov 14
+Nov 12
 : **Lecture**{: .label .label-green } Omitted variable bias
 : Omitted variable bias in semi-parametric and non-parametric models. Inference on bias bounds
 : ***Required Reading Materials***

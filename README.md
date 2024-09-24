@@ -12,8 +12,8 @@ seo:
 
 Instructor: [Vasilis Syrgkanis](https://vsyrgkanis.com/index.html), Assistant Professor, MS&E and (courtesy) CS & EE
 Units: 3  
-Autumn Quarter 2023  
-Tue, Thu 3:00-4:20PM 530-127
+Autumn Quarter 2024 
+Tue, Thu 3:00-4:20PM Y2E2 111
 
 **Description and Format:**  
 This is an advanced PhD course on modern theoretical topics at the intersection of causal inference, econometric theory and statistical learning theory. The course will consist of lectures, and student-led presentations. The course will also consist of a quarter long project which will involve a detailed literature review on a topic and either a replication of the methodology and the experimental results of a recent research paper or new methodological or theoretical developments on the topic of the project. The projects can be individual or in teams of up to three students.
@@ -24,22 +24,21 @@ This is an advanced PhD course on modern theoretical topics at the intersection 
 
 |                   | Time                       | Location       |
 |-------------------|----------------------------|-----------     |
-| Vasilis Syrgkanis | Wednesday 3.00-4.00pm      | Huang 252      |
+| Vasilis Syrgkanis | Friday 3.00-4.00pm         | Huang 252      |
  
 
 ### Grading
 
-* 30% class presentation (Dates: Nov 28, 30, Dec 5, 7)
+* 30% class project presentation
 * 70% project (35% literature review, 35% final report)
   - Proposal Due: Oct 15
   - Literature Review Due: Nov 17
-  - Final Report Due: Dec 15
+  - Final Report Due: Dec 13
 
 ### Course webpages
 
-* Discussion and homework material: [canvas](https://canvas.stanford.edu/)
-* Submissions: 
-
+* Course Material: [canvas](https://canvas.stanford.edu/)
+* Discussion: [Ed Discussion](https://edstem.org/us/courses/67841/discussion/5343970)
 
 **Late day policy**
 

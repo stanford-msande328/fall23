@@ -2,11 +2,11 @@
 title: Causal Identification
 ---
 
-Sept 26
+Sept 24
 : **Lecture**{: .label .label-green } Introduction
 Causal machine learning in practice 
 
-Sept 28
+Sept 26
 : **Lecture**{: .label .label-green } Potential Outcomes and DAGs
 : Causal identification via the potential outcomes framework, the structural equation framework and its DAG representation. Single world intervention graphs (SWIGs) and identification by adjustment. 
 : ***Required Reading Materials***
@@ -16,7 +16,7 @@ Sept 28
 - [The Central Role of the Propensity Score in Observational Studies for Causal Effects](https://www.jstor.org/stable/2335942#metadata_info_tab_contents)
 
 
-Oct 3
+Oct 1
 : **Lecture**{: .label .label-green } DAGs, D-separation and Identification by Conditioning
 : Proof of D-separation implies conditional independence.
 : ***Required Reading Materials***
@@ -27,7 +27,7 @@ Oct 3
 - [Identification of Joint Interventional Distributions in Recursive Semi-Markovian Causal Models](https://ftp.cs.ucla.edu/pub/stat_ser/r327.pdf)
 - [The Causal-Neural Connection: Expressiveness, Learnability, and Inference](https://arxiv.org/abs/2107.00793)
 
-Oct 5
+Oct 3
 : **Lecture**{: .label .label-green } Unobserved Confounding beyond DAGs
 : Causal identification in the presence of unobserved confounding beyond DAGs. Front-Door, Instrumental variables (IV), Diff-in-Diff (DiD), Regression Discontinuity Design (RDD). 
 : ***Required Reading Materials***
@@ -39,7 +39,7 @@ Oct 5
 - [Identification and Estimation of Local Average Treatment Effects](https://www.jstor.org/stable/2291629)
 - [Regression discontinuity designs: A guide to practice](https://www.sciencedirect.com/science/article/pii/S0304407607001091)
 
-Oct 10
+Oct 8
 : **Lecture**{: .label .label-green } Unobserved Confounding beyond DAGs
 : Causal identification in the presence of unobserved confounding beyond DAGs. Front-Door, Instrumental variables (IV), Diff-in-Diff (DiD), Regression Discontinuity Design (RDD) (syntheti controls?). 
 : ***Required Reading Materials***
